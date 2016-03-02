@@ -1,0 +1,25 @@
+" Gundo
+map <leader>u :GundoToggle<CR>
+
+" YankRing
+map <leader>y :YRShow<CR>
+
+syntax on
+color dracula
+
+" indents
+set tabstop=4       " number of visual spaces per tab
+set softtabstop=4   " number of spaces per tab while editing
+set shiftwidth=4    " set the indenting width to tabstop
+set expandtab       " tabs are spaces
+
+" move through tabs
+" overrides janus's swap line down
+nnoremap <C-j> <C-W>j
+" overrides janus's swap line up
+nnoremap <C-k> <C-W>k
+nnoremap <C-h> <C-W>h
+nnoremap <C-l> <C-W>l
+
+" LaTex word count
+map <leader>wc :w !detex \| wc -w<CR>

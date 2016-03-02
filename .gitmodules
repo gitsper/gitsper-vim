@@ -1,3 +1,18 @@
 [submodule "janus/superman"]
 	path = janus/superman
 	url = https://github.com/jez/vim-superman
+[submodule "janus/python-mode"]
+	path = janus/python-mode
+	url = https://github.com/klen/python-mode.git
+[submodule "janus/vim-coffee-script"]
+	path = janus/vim-coffee-script
+	url = https://github.com/kchmck/vim-coffee-script.git
+[submodule "janus/vim-javascript"]
+	path = janus/vim-javascript
+	url = https://github.com/pangloss/vim-javascript.git
+[submodule "janus/vim-ruby"]
+	path = janus/vim-ruby
+	url = https://github.com/vim-ruby/vim-ruby
+[submodule "janus/yankring"]
+	path = janus/yankring
+	url = https://github.com/vim-scripts/YankRing.vim.git
