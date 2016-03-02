@@ -1,0 +1,3 @@
+[submodule "janus/superman"]
+	path = janus/superman
+	url = https://github.com/jez/vim-superman
