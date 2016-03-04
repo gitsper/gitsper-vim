@@ -16,3 +16,6 @@
 [submodule "janus/yankring"]
 	path = janus/yankring
 	url = https://github.com/vim-scripts/YankRing.vim.git
+[submodule "janus/vim-expand-region"]
+	path = janus/vim-expand-region
+	url = https://github.com/terryma/vim-expand-region
