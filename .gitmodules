@@ -19,3 +19,9 @@
 [submodule "janus/vim-expand-region"]
 	path = janus/vim-expand-region
 	url = https://github.com/terryma/vim-expand-region
+[submodule "janus/vim-markdown"]
+	path = janus/vim-markdown
+	url = https://github.com/plasticboy/vim-markdown.git
+[submodule "janus/vim-rails"]
+	path = janus/vim-rails
+	url = git://github.com/tpope/vim-rails.git
