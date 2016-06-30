@@ -5,7 +5,7 @@ map <leader>u :GundoToggle<CR>
 map <leader>y :YRShow<CR>
 
 syntax on
-color dracula
+color molokai
 
 " indents
 set tabstop=4       " number of visual spaces per tab
@@ -27,3 +27,10 @@ map <leader>wc :w !detex \| wc -w<CR>
 " Markdown settings
 let g:vim_markdown_folding_disabled = 1
 let g:vim_markdown_frontmatter = 1
+
+" relative linenumbers
+" set relativenumber
+autocmd BufRead * :set relativenumber
+
+" rope is terribly slow for whatever reason, don't use it
+let g:pymode_rope = 0
