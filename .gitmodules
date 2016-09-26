@@ -25,3 +25,6 @@
 [submodule "janus/vim-rails"]
 	path = janus/vim-rails
 	url = git://github.com/tpope/vim-rails.git
+[submodule "janus/vim-rust"]
+	path = janus/vim-rust
+	url = https://github.com/rust-lang/rust.vim.git
