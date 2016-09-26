@@ -20,8 +20,5 @@ vnoremap $$ <esc>`>a"<esc>`<i"<esc>
 vnoremap $q <esc>`>a'<esc>`<i'<esc>
 vnoremap $e <esc>`>a"<esc>`<i"<esc>
 
-" relative linenumbers
-set relativenumber
-
 " don't highlight search results
 set nohlsearch
