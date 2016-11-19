@@ -5,7 +5,8 @@ map <leader>u :GundoToggle<CR>
 map <leader>y :YRShow<CR>
 
 syntax on
-color molokai
+" color molokai
+colorscheme gotham
 
 " indents
 set tabstop=4       " number of visual spaces per tab
@@ -33,4 +34,4 @@ let g:vim_markdown_frontmatter = 1
 autocmd BufRead * :set relativenumber
 
 " rope is terribly slow for whatever reason, don't use it
-let g:pymode_rope = 0
+" let g:pymode_rope = 0

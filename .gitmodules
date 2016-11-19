@@ -31,3 +31,6 @@
 [submodule "janus/vim-cython"]
 	path = janus/vim-cython
 	url = git@github.com:tshirtman/vim-cython.git
+[submodule "janus/vim-gotham"]
+	path = janus/vim-gotham
+	url = https://github.com/whatyouhide/vim-gotham
