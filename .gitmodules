@@ -34,3 +34,6 @@
 [submodule "janus/vim-gotham"]
 	path = janus/vim-gotham
 	url = https://github.com/whatyouhide/vim-gotham
+[submodule "janus/wal.vim"]
+	path = janus/wal.vim
+	url = git@github.com:dylanaraps/wal.vim.git

@@ -6,7 +6,8 @@ map <leader>y :YRShow<CR>
 
 syntax on
 " color molokai
-colorscheme gotham
+" colorscheme gotham
+colorscheme wal
 
 " indents
 set tabstop=4       " number of visual spaces per tab
